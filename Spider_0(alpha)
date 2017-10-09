@@ -1,1 +1,9 @@
+import urllib.request
+import re
 
+
+
+
+# open  and decode mises.org
+request = urllib.request.urlopen('https://mises.org').read()
+html = request.decode('utf-8')
