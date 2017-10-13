@@ -7,4 +7,4 @@ I use about 2 hours to learn BeautifulSoup4, but someone said it only needs half
 
 #### October 14th  
 Finaly I decide to set this goal , which is to download the first essay on wire.  
-I am studying hard on -re-. 
+I am studying hard on **re**. 
